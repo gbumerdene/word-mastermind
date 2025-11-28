@@ -34,7 +34,6 @@ const computeResult = (guess, correct) => {
         }
     }
 
-    return result.join("")
 }
 
 class Game {
